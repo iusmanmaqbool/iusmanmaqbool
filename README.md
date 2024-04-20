@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iusmanmaqbool](https://github.com/iusmanmaqbool)
 
-- 📝 I regularly write articles on [medium.com/iusmanmaqbool](medium.com/iusmanmaqbool)
-
 - 💬 Ask me about **Python, SQL ,R programming ,MS Excel, Data Cleaning, Data Viz**
 
 - 📫 How to reach me **itsusmanmaqbool@gmail.com**
