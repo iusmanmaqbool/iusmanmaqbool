@@ -16,15 +16,11 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iusmanmaqbool](https://github.com/iusmanmaqbool)
-
-- 💬 Ask me about **Python, SQL ,R programming ,MS Excel, Data Cleaning, Data Viz**
+- 💬 Ask me about **Python, SQL ,R programming, Power BI ,Data Analysis**
 
 - 📫 How to reach me **itsusmanmaqbool@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pb2zhvFLoqiWRu__j96lBX2t6l8Ncjnl/view](https://drive.google.com/file/d/1Pb2zhvFLoqiWRu__j96lBX2t6l8Ncjnl/view)
-
-- ⚡ Fun fact **Introvert**
+- ⚡ Fun fact **i am foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
