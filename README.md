@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/iusmanmaqbool" target="blank"><img src="https://img.shields.io/twitter/follow/iusmanmaqbool?logo=twitter&style=for-the-badge" alt="iusmanmaqbool" /></a> </p>
 
-- 🔭 I’m currently working on **Financial-loan**
+- 🔭 I’m currently working on **Cloud Based Project**
 
-- 🌱 I’m currently learning **Power-BI**
+- 🌱 I’m currently learning **GCP**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
